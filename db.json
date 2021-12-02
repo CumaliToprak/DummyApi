@@ -11,5 +11,6 @@
 {"id":10,"first_name":"Jeanette","last_name":"Middlebrook","email":"jmiddlebrook9@princeton.edu","gender":"Genderqueer","price":91},
 {"id":11,"first_name":"Thane","last_name":"Martschik","email":"tmartschika@blogtalkradio.com","gender":"Female","price":16},
 {"id":12,"first_name":"Nina","last_name":"Shalders","email":"nshaldersb@state.gov","gender":"Non-binary","price":27},
-{"id":13,"first_name":"Meade","last_name":"Thiese","email":"mthiesec@umn.edu","gender":"Female","price":46},
+{"id":13,"first_name":"Meade","last_name":"Thiese","email":"mthiesec@umn.edu","gender":"Female","price":46}
+      ]
 }
