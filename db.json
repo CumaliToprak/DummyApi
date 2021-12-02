@@ -1,10 +1,15 @@
 {
-"x":[
-    "Tiger Nixon",
-    "System Architect",
-    "Edinburgh",
-    "5421",
-    "2011/04/25",
-    "$3,120"
-]
+"dummyData" : [{"id":1,"first_name":"Nevsa","last_name":"Moyer","email":"nmoyer0@vk.com","gender":"Non-binary","price":77},
+{"id":2,"first_name":"Sydney","last_name":"Mirams","email":"smirams1@columbia.edu","gender":"Genderfluid","price":89},
+{"id":3,"first_name":"Swen","last_name":"Maas","email":"smaas2@comcast.net","gender":"Polygender","price":17},
+{"id":4,"first_name":"Emalee","last_name":"Royse","email":"eroyse3@google.co.jp","gender":"Non-binary","price":100},
+{"id":5,"first_name":"Nap","last_name":"Klampk","email":"nklampk4@aol.com","gender":"Male","price":26},
+{"id":6,"first_name":"Park","last_name":"Rosas","email":"prosas5@cbsnews.com","gender":"Male","price":77},
+{"id":7,"first_name":"Rodolph","last_name":"Anscott","email":"ranscott6@privacy.gov.au","gender":"Non-binary","price":94},
+{"id":8,"first_name":"Leta","last_name":"Ingamells","email":"lingamells7@tumblr.com","gender":"Polygender","price":51},
+{"id":9,"first_name":"Janeva","last_name":"Pfaffe","email":"jpfaffe8@twitpic.com","gender":"Genderqueer","price":84},
+{"id":10,"first_name":"Jeanette","last_name":"Middlebrook","email":"jmiddlebrook9@princeton.edu","gender":"Genderqueer","price":91},
+{"id":11,"first_name":"Thane","last_name":"Martschik","email":"tmartschika@blogtalkradio.com","gender":"Female","price":16},
+{"id":12,"first_name":"Nina","last_name":"Shalders","email":"nshaldersb@state.gov","gender":"Non-binary","price":27},
+{"id":13,"first_name":"Meade","last_name":"Thiese","email":"mthiesec@umn.edu","gender":"Female","price":46},
 }
