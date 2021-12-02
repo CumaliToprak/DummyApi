@@ -1,1 +1,5 @@
-
+{    
+"dummyData" : [
+  {"id":"1","first_name":"Nevsa","last_name":"Moyer","email":"nmoyer0@vk.com","gender":"Non-binary","price":"77"},
+],
+}
